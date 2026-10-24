@@ -9,3 +9,5 @@ node_modules/
 # local scratch
 .playwright-mcp/
 tmp/
+omp/bridge-state/
+omp/agents.ndjson
